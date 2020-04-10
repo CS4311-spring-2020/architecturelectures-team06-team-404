@@ -22,4 +22,4 @@ At the top level, files describing the project meant for users to read: ```READM
 
 The ```/doc``` directory shall contain all information material for documenting the assignment. This includes the presentation and the quiz questions.
 
-The ```/src``` directory shall contain all source material for the assignment. This includes the video.
+The ```/src``` directory shall contain all source material for the assignment. This includes the video link. **Note: Because of the video size, Github rejected the upload of the video file.**
