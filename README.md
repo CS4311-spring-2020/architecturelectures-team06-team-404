@@ -2,10 +2,10 @@
 
 ## Video Assignment: Microservice Architecture
 
-**Author: Matthew S Montoya**
-**Author: Jorge I Felix**
-**Author: Eddy Toddx**
-**Author: Jacon N Torres**
+**Author: Matthew S Montoya**</br>
+**Author: Jorge I Felix**</br>
+**Author: Eddy Toddx**</br>
+**Author: Jacon N Torres**</br>
 **Author: Alejandro Zamora**
 
 **Due: April 10, 2020**
