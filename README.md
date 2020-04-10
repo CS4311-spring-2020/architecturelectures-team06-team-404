@@ -5,7 +5,7 @@
 **Author: Matthew S Montoya**</br>
 **Author: Jorge I Felix**</br>
 **Author: Eddy Toddx**</br>
-**Author: Jacon N Torres**</br>
+**Author: Jacob N Torres**</br>
 **Author: Alejandro Zamora**
 
 **Due: April 10, 2020**
